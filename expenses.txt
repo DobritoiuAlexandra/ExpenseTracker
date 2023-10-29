@@ -1,0 +1,105 @@
+Date: October 5 2023
+Category: Utilities
+Description: Electric bill
+Amount: 10.0
+-----
+Date: October 5 2023
+Category: Utilities
+Description: Electric bill
+Amount: 80.0
+-----
+Date: October 5 2023
+Category: Utilities
+Description: Electric bill
+Amount: 90.0
+-----
+Date: October 5 2023
+Category: Utilities
+Description: Electric bill
+Amount: 1500.0
+-----
+Date: October 10 2023
+Category: Dining
+Description: Dinner with friends
+Amount: 60.0
+-----
+Date: October 15 2023
+Category: Entertainment
+Description: Movie night
+Amount: 25.0
+-----
+Date: October 20 2023
+Category: Shopping
+Description: Clothing shopping
+Amount: 120.0
+-----
+Date: October 25 2023
+Category: Groceries
+Description: Weekly groceries
+Amount: 45.0
+-----
+Date: November 1 2023
+Category: Utilities
+Description: Water bill
+Amount: 40.0
+-----
+Date: November 5 2023
+Category: Dining
+Description: Lunch with colleagues
+Amount: 20.0
+-----
+Date: November 10 2023
+Category: Entertainment
+Description: Concert tickets
+Amount: 75.0
+-----
+Date: November 15 2023
+Category: Transportation
+Description: Gas for car
+Amount: 50.0
+-----
+Date: December 1 2023
+Category: Utilities
+Description: Internet bill
+Amount: 60.0
+-----
+Date: December 5 2023
+Category: Dining
+Description: Dinner at a fancy restaurant
+Amount: 100.0
+-----
+Date: December 10 2023
+Category: Shopping
+Description: Holiday gifts
+Amount: 200.0
+-----
+Date: December 15 2023
+Category: Entertainment
+Description: Theater show tickets
+Amount: 70.0
+-----
+Date: December 20 2023
+Category: Dining
+Description: Dinner with family
+Amount: 90.0
+-----
+Date: December 25 2023
+Category: Entertainment
+Description: Holiday movie night
+Amount: 30.0
+-----
+Date: December 30 2023
+Category: Transportation
+Description: Taxi ride
+Amount: 15.0
+-----
+Date: January 5 2024
+Category: Shopping
+Description: Winter clothing
+Amount: 110.0
+-----
+Date: January 99 2025
+Category: Shopping99
+Description: Test99
+Amount: 999.999
+-----
